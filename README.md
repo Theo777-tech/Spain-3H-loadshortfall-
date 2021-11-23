@@ -6,4 +6,5 @@
 5. Built 5 models that was capable of forecasting the three hourly demand shortfall. Namely linear regression, lasso, ridge, decision trees and random forests.
 6. Evaluated the accuracy of the best machine learning model using metrics such as r squared and the root mean squared error.
 7. Deployed the model on AWS EC2 instance.
-[]	![alt text](image.jpg)(https://github.com/Theo777-tech/Spain-3H-loadshortfall-/blob/main/images/image%201.png)
+
+![](https://github.com/Theo777-tech/Spain-3H-loadshortfall-/blob/main/images/image%201.png)
